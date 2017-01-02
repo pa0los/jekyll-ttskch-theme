@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Hello, Jekyll and TtskchTheme
-tags: hello jekyll theme
+title: First post
+tags: test jekyll
 eye_catch: http://jekyllrb.com/img/logo-2x.png
 ---
 
-You can use most of standard Markdown features.
+Testing some features.
 
 ## List
 
@@ -32,9 +32,11 @@ You can use most of standard Markdown features.
 
 ## Syntax highlighting
 
-```php
-<?php
-echo 'Hello, World!';
+```c++
+void main()
+{
+   int a;
+}
 ```
 
 ## Tables
