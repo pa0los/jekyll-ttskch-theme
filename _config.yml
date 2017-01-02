@@ -3,10 +3,10 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
-baseurl: /jekyll-ttskch-theme
-title: Your name
-description: Some descriptions of yourself.
+url: https://pa0los.github.io
+baseurl: /
+title: Test page
+description: Some description
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
 favicon: /assets/img/ogp.png
@@ -19,9 +19,9 @@ language: en
 icons:
   rss: true
   email:
-  github: ttskch
+  github: pa0los
   bitbucket:
-  twitter: ttskch
+  twitter: pa0los
   facebook:
   google_plus:
   tumblr:
